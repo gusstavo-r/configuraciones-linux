@@ -1,0 +1,27 @@
+window:
+  dimensions:
+    columns: 96
+    lines: 25
+  padding:
+    x: 0
+    y: 0
+  opacity: 0.9
+
+font:
+  normal:
+    family: FiraCode NF
+    style: regular
+  bold:
+    family: FiraCode NF
+    style: bold
+  italic:
+    family: FiraCode NF
+    style: italic
+
+  size: 11.0
+  offset:
+    x: 0
+    y: 0
+  glyph_offset:
+    x: 0
+    y: 0
